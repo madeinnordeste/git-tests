@@ -1,1 +1,3 @@
-GIT Tests Repository
+#GIT Tests Repository
+
+Repository for tests 
